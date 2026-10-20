@@ -75,3 +75,6 @@ Quiz-game-/
 Powered by the [Open Trivia DB](https://opentdb.com) API.
 
 Made by **Sudais Alam**.
+
+## Browser Support
+Works in all modern browsers. No installation needed.
